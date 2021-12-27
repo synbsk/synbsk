@@ -1,153 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Website of Sayan Basak</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Website of Sayan Basak</description>
+    <title>Tags on Huabing Blog</title>
+    <link>https://zhaohuabing.com/tags/</link>
+    <description>Recent content in Tags on Huabing Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>redirect</title>
-      <link>/tags/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Istio</title>
+      <link>https://zhaohuabing.com/tags/istio/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/redirect/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/istio/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>redirectUrl</title>
-      <link>/tags/redirecturl/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>ubuntu</title>
+      <link>https://zhaohuabing.com/tags/ubuntu/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/redirecturl/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/ubuntu/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      <title>Microservice</title>
+      <link>https://zhaohuabing.com/tags/microservice/</link>
+      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/microservice/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>shortcode</title>
-      <link>/tags/shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      <title>Security</title>
+      <link>https://zhaohuabing.com/tags/security/</link>
+      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/shortcode/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/security/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>css</title>
-      <link>/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Kubernetes</title>
+      <link>https://zhaohuabing.com/tags/kubernetes/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/kubernetes/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Travel</title>
+      <link>https://zhaohuabing.com/tags/travel/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/travel/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Helm</title>
+      <link>https://zhaohuabing.com/tags/helm/</link>
+      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/helm/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>API Gateway</title>
+      <link>https://zhaohuabing.com/tags/api-gateway/</link>
+      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>/tags/privacy/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/api-gateway/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>service Mesh</title>
+      <link>https://zhaohuabing.com/tags/service-mesh/</link>
+      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>/tags/shortcodes/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/service-mesh/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Docker</title>
+      <link>https://zhaohuabing.com/tags/docker/</link>
+      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/text/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/docker/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Tips</title>
+      <link>https://zhaohuabing.com/tags/tips/</link>
+      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>/tags/emoji/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/tips/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>thumbnail</title>
-      <link>/tags/thumbnail/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Vim</title>
+      <link>https://zhaohuabing.com/tags/vim/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>/tags/thumbnail/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/vim/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>index</title>
-      <link>/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>nginmesh</title>
+      <link>https://zhaohuabing.com/tags/nginmesh/</link>
+      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>/tags/index/</guid>
-      
-        <description></description>
-      
+      <guid>https://zhaohuabing.com/tags/nginmesh/</guid>
+      <description></description>
     </item>
     
   </channel>

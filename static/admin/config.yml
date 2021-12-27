@@ -11,11 +11,13 @@ collections: # A list of collections the CMS should be able to edit
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - { label: "Layout", name: "layout", widget: "select", options: "post","portfolio" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Sub Title", name: "subtitle", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "date" }
+      - { label: "Author", name: "author", widget: "select", options: "Sayan Basak", "Guest" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image", choose_url: true, default: "", media_library: config: multiple: false}
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Categories", name: "categories", widget: "list" }
-      - { label: "Series", name: "series", widget: "list" }
-      - { label: "Aliases", name: "aliases", widget: "list" }
