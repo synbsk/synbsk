@@ -1,0 +1,158 @@
+baseURL = ""
+languageCode = "en-in"
+DefaultContentLanguage = "en"
+title = "Website of Sayan Basak"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    # tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 400
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[menu.main]]
+  name = "Categories"
+  weight = 500
+  identifier = "categories"
+  url = "/categories/"
+
+  [[menu.main]]
+  name = "Series"
+  weight = 600
+  identifier = "series"
+  url = "/series/"
+  
+  [[menu.main]]
+  name = "Showcase"
+  weight = 700
+  identifier = "showcase"
+  url = "/showcase/"
+
+  [[menu.main]]
+  name = "Docs"
+  weight = 800
+  identifier = "docs"
+  url = "/docs/"
+  
+  [[menu.main]]
+  name = "Contact Me"
+  weight = 900
+  identifier = "contact"
+  url = "/contact/"
+  
+  [[menu.footer]]
+  name = "Terms & Privacy Policy"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
+
+[params]
+title = "I'm Sayan Basak"
+author = "Sayan Basak"
+copyright = "2020-{{ YEAR }}"
+description = "Call me Roonit"
+profilePicture = "images/SAYAN_BASAK.png"
+keywords = ""
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+# mainSections = ["post", "docs"]
+disableThemeSwitcher = false # Theme switcher is enabled by default
+# images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+fullPostContent = false
+# Form Spree Contact Form
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+# Google Fonts
+googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+# Read More links for truncated summaries
+readMore = true
+postSectionName = "blog"
+
+[languages]
+    [en]
+    LanguageName = "EN"
+
+[simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+## Math settings
+[math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://linkedin.com/"
+
+[[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/lxndrblz/anatole/"
+
+[[params.socialIcons]]
+    icon = "fab fa-instagram"
+    title = "instagram"
+    url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:mail@example.com"
