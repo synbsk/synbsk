@@ -27,6 +27,7 @@ collections:
       - {label: "Tags", name: "Tags", widget: "list", allow_add: true, default: ["Dev"]}
       - {label: "Categories", name: "Categories", widget: "list", allow_add: true, default: ["Dev"]}
       - {label: "DisableComments", name: "DisableComments", widget: "boolean", default: false}
+      - {label: "toc", name: "toc", widget: "boolean", default: true}
       - {label: "redirectUrl", name: "redirectUrl", widget: "string"}
   - name: "about"
     label: "About"
