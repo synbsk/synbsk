@@ -28,8 +28,8 @@ collections:
       - {label: "Categories", name: "Categories", widget: "list", allow_add: true, default: ["Dev"]}
       - {label: "DisableComments", name: "DisableComments", widget: "boolean", default: false}
       - {label: "redirectUrl", name: "redirectUrl", widget: "string"}
-  - name: "page"
-    label: "Pages"
+  - name: "about"
+    label: "About"
     files:
       - label: "About Page"
         name: "about"
