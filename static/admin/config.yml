@@ -26,4 +26,31 @@ collections:
       - {label: "body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "Tags", widget: "list", allow_add: true, default: ["Dev"]}
       - {label: "Categories", name: "Categories", widget: "list", allow_add: true, default: ["Dev"]}
-      - {label: "draft", name: "draft", widget: "boolean", default: true}
+      - {label: "DisableComments", name: "DisableComments", widget: "boolean", default: false}
+      - {label: "redirectUrl", name: "redirectUrl", widget: "string"}
+  - name: "page"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "/content/about.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: "Description", name: "Description", widget: "string"}
+          - {label: "date", name: "date", widget: "date"}
+          - {label: "aliases", name: "aliases", widget: "list", allow_add: true, default: ["about-us", "about-hugo"]}
+          - {label: body, name: body, widget: markdown}
+          - {label: "author", name: "author", widget: "string", default: ["Sayan Basak"]}
+  - name: "imprint"
+    label: "imprint"
+    files:
+      - label: "Imprint"
+        name: "imprint"
+        file: "/content/imprint.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: "Description", name: "Description", widget: "string"}
+          - {label: "date", name: "date", widget: "date"}
+          - {label: "aliases", name: "aliases", widget: "list", allow_add: true, default: ["about-us", "about-hugo"]}
+          - {label: body, name: body, widget: markdown}
+          - {label: "author", name: "author", widget: "string", default: ["Sayan Basak"]}
