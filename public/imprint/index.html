@@ -51,7 +51,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
 
-  <link rel="canonical" href="/imprint/" />
+  <link rel="canonical" href="https://hungry-lalande-72070e.netlify.app/imprint/" />
 
   
   
@@ -76,7 +76,7 @@
 
   
   <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="images/SAYAN_BASAK.png"/>
+<meta name="twitter:image" content="https://hungry-lalande-72070e.netlify.app/images/SAYAN_BASAK.png"/>
 
 <meta name="twitter:title" content=""/>
 <meta name="twitter:description" content="Legal Disclosure Information in accordance with the applicable law
@@ -88,7 +88,7 @@ Jane Doe"/>
 <meta property="og:description" content="Legal Disclosure Information in accordance with the applicable law
 Jane Doe" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="/imprint/" /><meta property="og:image" content="images/SAYAN_BASAK.png"/><meta property="article:section" content="" />
+<meta property="og:url" content="https://hungry-lalande-72070e.netlify.app/imprint/" /><meta property="og:image" content="https://hungry-lalande-72070e.netlify.app/images/SAYAN_BASAK.png"/><meta property="article:section" content="" />
 
 <meta property="og:site_name" content="My blog" />
 
@@ -120,7 +120,7 @@ Jane Doe" />
         "isFamilyFriendly": "true",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "\/imprint\/"
+            "@id": "https:\/\/hungry-lalande-72070e.netlify.app\/imprint\/"
         },
         "author" : {
             "@type": "Person",
@@ -145,10 +145,10 @@ Jane Doe" />
         "publisher":{
             "@type":"Organization",
             "name": "Sayan Basak",
-            "url": "",
+            "url": "https://hungry-lalande-72070e.netlify.app/",
             "logo": {
                 "@type": "ImageObject",
-                "url": "favicons\/favicon-32x32.png",
+                "url": "https:\/\/hungry-lalande-72070e.netlify.app\/favicons\/favicon-32x32.png",
                 "width":"32",
                 "height":"32"
             }
@@ -156,14 +156,14 @@ Jane Doe" />
         "image": 
       [
         
-        "images/SAYAN_BASAK.png"
+        "https://hungry-lalande-72070e.netlify.app/images/SAYAN_BASAK.png"
 
 
       
       ]
 
     ,
-        "url" : "\/imprint\/",
+        "url" : "https:\/\/hungry-lalande-72070e.netlify.app\/imprint\/",
         "wordCount" : "17",
         "genre" : [ ],
         "keywords" : [ ]
@@ -172,7 +172,9 @@ Jane Doe" />
 
 
 
+
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
 </head>
 <body>
     <header><div
@@ -415,5 +417,16 @@ Germany</p>
     src="/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js"
     integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I="
     crossorigin="anonymous"
-  ></script></body>
+  ></script><script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
 </html>

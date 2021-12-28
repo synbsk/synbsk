@@ -2,7 +2,7 @@
 title = "Actually from CMS"
 Description = "Description from CMS"
 date = "2021-12-28T19:20:19.579Z"
-images = "/transmit/files/jan_bajajfinserv_emi.png"
+thumbnail = "/transmit/files/jan_bajajfinserv_emi.png"
 tags = [
   "TAGS"
 ]
