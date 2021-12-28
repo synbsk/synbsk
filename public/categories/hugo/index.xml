@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Sayan Basak</title>
+    <link>/categories/hugo/</link>
+    <description>Recent content in hugo on Sayan Basak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Dec 2021 12:15:27 +0530</lastBuildDate><atom:link href="/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post using Terminal</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 28 Dec 2021 12:15:27 +0530</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>#Heading 1 of this post is this line
+This is a Strong Post</description>
+    </item>
+    
+  </channel>
+</rss>
