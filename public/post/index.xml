@@ -6,7 +6,19 @@
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Dec 2021 19:20:19 +0000</lastBuildDate><atom:link href="https://hungry-lalande-72070e.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 20:10:19 +0000</lastBuildDate><atom:link href="https://hungry-lalande-72070e.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second from CMS</title>
+      <link>https://hungry-lalande-72070e.netlify.app/post/second-from-cms/</link>
+      <pubDate>Tue, 28 Dec 2021 20:10:19 +0000</pubDate>
+      
+      <guid>https://hungry-lalande-72070e.netlify.app/post/second-from-cms/</guid>
+      
+        <description>&lt;p&gt;This is the post body ready to be deployed&lt;/p&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title>Actually from CMS</title>
       <link>https://hungry-lalande-72070e.netlify.app/post/actually-from-cms/</link>
