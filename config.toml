@@ -1,7 +1,7 @@
-baseURL = "https://hungry-lalande-72070e.netlify.app/"
+baseURL = ""
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Sayan's Website"
+title = "Sayan Basak | SayanBasak.com"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -38,7 +38,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "I'm Sayan Basak"
 author = "Sayan Basak"
 copyright = "2020-{{ YEAR }}"
-description = "Call me Sayan"
+description = "Full Stack Developer, Enterprise Systems Specialist, ERP, CRM, SAP, Cloud, Data Architect. With more than 9yrs. of Industry Exposure and multiple Certifications, I always stay enthusiastic to help out any business | Kolkata, West Bengal, India. "
 profilePicture = "images/SAYAN_BASAK.png"
 keywords = ""
 favicon = "favicons/"
@@ -63,7 +63,7 @@ listDateFormat = "Jan 2"
 # Read More links for truncated summaries
 readMore = true
 postSectionName = "blog"
-contentratio = 0.75
+contentratio = 0.8
 rssFullContent = true
 
 
@@ -112,10 +112,10 @@ LanguageName = "EN"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Achivements"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "achivements"
+  url = "/achivements/"
 
   [[menu.main]]
   name = "Portfolio"
@@ -136,7 +136,7 @@ LanguageName = "EN"
   url = "/contact/"
 
   [[menu.footer]]
-  name = "imprint"
+  name = "Terms & Privacy"
   weight = 1
   identifier = "imprint"
   url = "/imprint/"

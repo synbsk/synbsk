@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My blog</title>
-    <link>https://hungry-lalande-72070e.netlify.app/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Dec 2021 20:10:19 +0000</lastBuildDate><atom:link href="https://hungry-lalande-72070e.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 14:28:47 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second from CMS</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/second-from-cms/</link>
-      <pubDate>Tue, 28 Dec 2021 20:10:19 +0000</pubDate>
+      <title>second test from cms</title>
+      <link>/post/second-test-from-cms/</link>
+      <pubDate>Sat, 08 Jan 2022 14:28:47 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/second-from-cms/</guid>
+      <guid>/post/second-test-from-cms/</guid>
       
-        <description>&lt;p&gt;This is the post body ready to be deployed&lt;/p&gt;
+        <description>&lt;p&gt;hello world from netlify cms&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
       <title>Actually from CMS</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/actually-from-cms/</link>
+      <link>/post/actually-from-cms/</link>
       <pubDate>Tue, 28 Dec 2021 19:20:19 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/actually-from-cms/</guid>
+      <guid>/post/actually-from-cms/</guid>
       
         <description>&lt;h1 id=&#34;this-is-a-h1&#34;&gt;This is a H1&lt;/h1&gt;
 &lt;h2 id=&#34;and-this-is-h2&#34;&gt;And this is H2&lt;/h2&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Series Part 2</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/series-part-2/</link>
+      <link>/post/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/series-part-2/</guid>
+      <guid>/post/series-part-2/</guid>
       
         <description>&lt;p&gt;In this second part of the series we&amp;rsquo;ll show you where to find the full series&lt;/p&gt;
 &lt;p&gt;When you created a series, you&amp;rsquo;ll probably want to link to the full set of blogposts.&lt;br&gt;
@@ -49,10 +49,10 @@ In this example we used &lt;code&gt;series-setup&lt;/code&gt; as our series name
     
     <item>
       <title>Series Part 1</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/series-part-1/</link>
+      <link>/post/series-part-1/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/series-part-1/</guid>
+      <guid>/post/series-part-1/</guid>
       
         <description>&lt;p&gt;In this first part of the series we&amp;rsquo;ll show you how to create a series&lt;/p&gt;
 &lt;p&gt;As a first step we need to add series as a taxonomy. We can do this by editing the &lt;code&gt;config.toml&lt;/code&gt;.&lt;br&gt;
@@ -79,10 +79,10 @@ series:
     
     <item>
       <title>Redirect</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/redirect/</link>
+      <link>/post/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/redirect/</guid>
+      <guid>/post/redirect/</guid>
       
         <description>&lt;p&gt;Forwarding to &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo&lt;/a&gt; using &lt;code&gt;redirectUrl&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;sk-wrapper&#34;&gt;
@@ -99,10 +99,10 @@ series:
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/figure-shortcode/</link>
+      <link>/post/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/figure-shortcode/</guid>
+      <guid>/post/figure-shortcode/</guid>
       
         <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#figure&#34;&gt;https://gohugo.io/content-management/shortcodes/#figure&lt;/a&gt;&lt;/p&gt;
@@ -149,10 +149,10 @@ series:
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/markdown-syntax/</link>
+      <link>/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/markdown-syntax/</guid>
+      <guid>/post/markdown-syntax/</guid>
       
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
@@ -298,10 +298,10 @@ series:
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/placeholder-text/</link>
+      <link>/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/placeholder-text/</guid>
+      <guid>/post/placeholder-text/</guid>
       
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
@@ -331,10 +331,10 @@ series:
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/math-typesetting/</link>
+      <link>/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/math-typesetting/</guid>
+      <guid>/post/math-typesetting/</guid>
       
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -363,10 +363,10 @@ $$&lt;/p&gt;</description>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/emoji-support/</link>
+      <link>/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/emoji-support/</guid>
+      <guid>/post/emoji-support/</guid>
       
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -384,10 +384,10 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://hungry-lalande-72070e.netlify.app/post/image-test/</link>
+      <link>/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hungry-lalande-72070e.netlify.app/post/image-test/</guid>
+      <guid>/post/image-test/</guid>
       
         <description>&lt;p&gt;Thumbnails can be enabled easily by setting the &lt;code&gt;thumbnail&lt;/code&gt; parameter in the frontmatter to an image such as &lt;code&gt;&amp;quot;images/landscape.jpg&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Make sure to copy the image the &lt;code&gt;static/images/&lt;/code&gt; directory.&lt;/p&gt;

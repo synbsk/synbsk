@@ -2,78 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hungry-lalande-72070e.netlify.app/</loc>
-    <lastmod>2021-12-28T20:10:19+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-01-08T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/categories/categories/</loc>
-    <lastmod>2021-12-28T20:10:19+00:00</lastmod>
+    <loc>/categories/bcategories/</loc>
+    <lastmod>2022-01-08T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/categories/</loc>
-    <lastmod>2021-12-28T20:10:19+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-01-08T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/</loc>
-    <lastmod>2021-12-28T20:10:19+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2022-01-08T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/second-from-cms/</loc>
-    <lastmod>2021-12-28T20:10:19+00:00</lastmod>
+    <loc>/post/second-test-from-cms/</loc>
+    <lastmod>2022-01-08T14:28:47+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/actually-from-cms/</loc>
+    <loc>/post/actually-from-cms/</loc>
     <lastmod>2021-12-28T19:20:19+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/series/</loc>
+    <loc>/categories/categories/</loc>
+    <lastmod>2021-12-28T19:20:19+00:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/series-part-2/</loc>
+    <loc>/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/series/series-setup/</loc>
+    <loc>/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/series-part-1/</loc>
+    <loc>/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/redirect/</loc>
+    <loc>/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/figure-shortcode/</loc>
+    <loc>/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/markdown-syntax/</loc>
+    <loc>/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/series/themes-guide/</loc>
+    <loc>/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/placeholder-text/</loc>
+    <loc>/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/math-typesetting/</loc>
+    <loc>/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/emoji-support/</loc>
+    <loc>/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/post/image-test/</loc>
+    <loc>/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/imprint/</loc>
+    <loc>/achivements/</loc>
+    <lastmod>2018-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://hungry-lalande-72070e.netlify.app/portfolio/</loc>
+    <loc>/portfolio/</loc>
   </url>
 </urlset>
