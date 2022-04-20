@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sayan Basak</h1>
-<h3 align="center">an Enterprise Systems Specialist with ERP, CRM, SAP, Cloud & Data Architecture as Specialization 👨‍💻 working since 2016 🚀</h3>
+<h3 align="center">Enterprise Systems Specialist with ERP, CRM, SAP, Cloud & Data Architecture as Specialization 👨‍💻 working since 2016 🚀</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=synbsk&label=Profile%20views&color=0e75b6&style=flat" alt="synbsk" /> </p>
 
