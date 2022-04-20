@@ -32,7 +32,7 @@
 - ⚡ Fun fact: **⚡  I like braces over indent 😆**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/synbsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="synbsk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayanbasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanbasak" height="30" width="40" /></a>
 <a href="https://fb.com/sayanbasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayanbasak" height="30" width="40" /></a>
