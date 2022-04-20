@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Sayan Basak</h1>
 <h3 align="center">an Enterprise Systems Specialist with ERP, CRM, SAP, Cloud & Data Architecture as Specialization 👨‍💻 working since 2016 🚀</h3>
 
@@ -26,10 +30,6 @@
 - 📄 Know about my experiences [https://sayanbasak.com](https://sayanbasak.com)
 
 - ⚡ Fun fact **⚡ Fun fact: I like braces over indent 😆**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
