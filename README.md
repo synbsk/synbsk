@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Sayan Basak</h1>
 <h3 align="center">Enterprise Systems Specialist with ERP, CRM, SAP, Cloud & Data Architecture as Specialization 👨‍💻 working since 2016 🚀</h3>
+<p aligh="center">Responsible for conceptualizing the set of processes that help align business IT infrastructure with digital operations and strategic business goals. I like to play a pivotal role in facilitating enterprise digital transformation. Want to focus in building solutions that are a necessity for enterprises looking to model, automate, integrate, and transform their IT & Operational landscape at scale. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=synbsk&label=Profile%20views&color=0e75b6&style=flat" alt="synbsk" /> </p>
 
